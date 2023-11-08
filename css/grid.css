@@ -10,9 +10,9 @@
 }
 
 .grid-item-galeria {
-    border: 2px solid #ddd;
-    border-color: red;
-    padding: 5px;
+    border: 4px solid #ddd;
+    border-color: rgba(255, 0, 0, 0.671);
+    padding: 0px;
     text-align: center;
 
 }
@@ -20,7 +20,7 @@
 .grid-item-galeria img {
     max-width: 100%;
     width: auto;
-    height: 300px;
+    height: 100%;
     transition: transform 0.4s;
 }
 
@@ -30,7 +30,7 @@
 }
 
 .cart{
-    border-radius: 20px;
+    border-radius: 40px;
     background-color: orange;
     padding: 10px 15px;;
 }
