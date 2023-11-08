@@ -165,6 +165,25 @@ ul{
     transition: all 0.3s
 }
 
+/* TOUR */
+.paises{
+    text-align: center;
+} 
+
+.video:hover{
+    transform: scale(1.1);
+}
+
+.boton{
+    border-radius: 15px;
+    background-color: green;
+    padding: 5px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+
 
 /* BOTON IR ARRIBA */
 .arriba{
