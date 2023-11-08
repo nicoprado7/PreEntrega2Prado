@@ -198,9 +198,12 @@ ul{
 }
 
 
-
-
-
+.micro{
+    position: absolute;
+    bottom: 70px;
+    left: 50px;
+    width: 20%; 
+    }
 
 
 
